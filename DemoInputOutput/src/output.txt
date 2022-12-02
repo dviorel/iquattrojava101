@@ -1,0 +1,6 @@
+Ingrese el numero N
+Ingrese 3 números separados por espacios
+2
+4
+8
+El promedio es: 4.666666666666667

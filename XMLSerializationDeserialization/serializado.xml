@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<class xmlns="http://www.impuestos.gob.bo">
+    <student>
+        <id>2</id>
+        <name>Juan</name>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Gabriel</name>
+    </student>
+</class>

@@ -1,0 +1,17 @@
+<?xml version = "1.0"?>
+<class xmlns = "http://www.impuestos.gob.bo"
+       xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation = "http://www.impuestos.gob.bo  SchemaPrueba.xsd">
+    <student>
+        <ids>85</ids>
+        <name>Dinkar</name>
+    </student>
+    <student>
+        <id>86</id>
+        <name>Daniel</name>
+    </student>
+    <student>
+        <id>87</id>
+        <name>Javier</name>
+    </student>
+</class>
